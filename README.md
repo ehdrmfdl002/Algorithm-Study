@@ -23,4 +23,4 @@
 
 - [3월에 태어난 여성 회원 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131120
 - [12세 이하인 여자 환자 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/132201
-- [서울에 위치한 식당 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131118
+- [과일로 만든 아이스크림 고르기] https://school.programmers.co.kr/learn/courses/30/lessons/133025
