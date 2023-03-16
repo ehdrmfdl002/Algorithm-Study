@@ -24,3 +24,13 @@
 - [3월에 태어난 여성 회원 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131120
 - [12세 이하인 여자 환자 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/132201
 - [과일로 만든 아이스크림 고르기] https://school.programmers.co.kr/learn/courses/30/lessons/133025
+
+---
+
+- [위장] https://school.programmers.co.kr/learn/courses/30/lessons/42578
+- [베스트 앨범] https://school.programmers.co.kr/learn/courses/30/lessons/42579
+- [같은 숫자는 싫어] https://school.programmers.co.kr/learn/courses/30/lessons/12906
+
+- [조건에 부합하는 중고거래 댓글 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/164673
+- [흉부외과 또는 일반외과 의사 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/132203
+- [평균 일일대여 요금 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/151136
