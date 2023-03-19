@@ -34,3 +34,28 @@
 - [조건에 부합하는 중고거래 댓글 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/164673
 - [흉부외과 또는 일반외과 의사 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/132203
 - [평균 일일대여 요금 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/151136
+
+### 2주차(2023.03.20 ~ 2023.03.26)
+
+- [기능개발] https://school.programmers.co.kr/learn/courses/30/lessons/42586
+- [올바른 괄호] https://school.programmers.co.kr/learn/courses/30/lessons/12909
+- [프린터] https://school.programmers.co.kr/learn/courses/30/lessons/42587
+- [다리를 지나는 트럭] https://school.programmers.co.kr/learn/courses/30/lessons/42583
+- [주식가격] https://school.programmers.co.kr/learn/courses/30/lessons/42584
+- [더 맵게] https://school.programmers.co.kr/learn/courses/30/lessons/42626
+- [디스크 컨트롤러] https://school.programmers.co.kr/learn/courses/30/lessons/42627
+- [이중우선순위큐] https://school.programmers.co.kr/learn/courses/30/lessons/42628
+
+- [인기있는 아이스크림] https://school.programmers.co.kr/learn/courses/30/lessons/133024
+- [조건에 맞는 도서 리스트 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/144853
+- [강원도에 위치한 생산공장 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131112
+- [모든 레코드 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/59034
+- [재구매가 일어난 상품과 회원 리스트 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131536
+- [역순 정렬하기] https://school.programmers.co.kr/learn/courses/30/lessons/59035
+- [아픈 동물 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/59036
+- [어린 동물 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/59037
+- [동물의 아이디와 이름] https://school.programmers.co.kr/learn/courses/30/lessons/59403
+- [여러 기준으로 정렬하기] https://school.programmers.co.kr/learn/courses/30/lessons/59404
+- [상위 n개 레코드] https://school.programmers.co.kr/learn/courses/30/lessons/59405
+- [조건에 맞는 회원수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131535
+
