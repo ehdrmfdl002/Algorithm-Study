@@ -60,4 +60,6 @@
 - [여러 기준으로 정렬하기] https://school.programmers.co.kr/learn/courses/30/lessons/59404
 - [상위 n개 레코드] https://school.programmers.co.kr/learn/courses/30/lessons/59405
 - [조건에 맞는 회원수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131535
+- [서울에 위치한 식당 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131118
+- [오프라인/온라인 판매 데이터 통합하기] https://school.programmers.co.kr/learn/courses/30/lessons/131537
 
