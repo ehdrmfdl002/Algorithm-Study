@@ -69,3 +69,26 @@
 - [동물 수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/59406
 - [중복 제거하기] https://school.programmers.co.kr/learn/courses/30/lessons/59408
 
+### 3주차(2023.03.27 ~ 2023.04.01)
+
+- [k번째 수] https://school.programmers.co.kr/learn/courses/30/lessons/42748
+- [가장 큰 수] https://school.programmers.co.kr/learn/courses/30/lessons/42746
+- [H-Index] https://school.programmers.co.kr/learn/courses/30/lessons/42747
+- [최소 직사각형] https://school.programmers.co.kr/learn/courses/30/lessons/86491
+- [모의고사] https://school.programmers.co.kr/learn/courses/30/lessons/42840
+- [소수 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/42839
+- [카펫] https://school.programmers.co.kr/learn/courses/30/lessons/42842
+- [피로도] https://school.programmers.co.kr/learn/courses/30/lessons/87946
+- [전력망을 둘로 나누기] https://school.programmers.co.kr/learn/courses/30/lessons/86971
+- [모음 사전] https://school.programmers.co.kr/learn/courses/30/lessons/84512
+
+---
+
+- [즐겨찾기가 가장 많은 식당 정보 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131123
+- [자동차 종류 별 특정 옵션이 포함된 자동차 수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/151137
+- [동명 동물 수 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/59041
+- [진료과별 총 예약 횟수 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/132202
+- [성분으로 구분한 아이스크림 총 주문량] https://school.programmers.co.kr/learn/courses/30/lessons/133026
+- [고양이와 개는 몇 마리 있을까] https://school.programmers.co.kr/learn/courses/30/lessons/59040
+- [동명 동물 수 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/59041
+- [가격대 별 상품 개수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131530
