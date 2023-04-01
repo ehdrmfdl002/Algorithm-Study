@@ -69,7 +69,7 @@
 - [동물 수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/59406
 - [중복 제거하기] https://school.programmers.co.kr/learn/courses/30/lessons/59408
 
-### 3주차(2023.03.27 ~ 2023.04.01)
+### 3주차(2023.03.27 ~ 2023.04.09)
 
 - [k번째 수] https://school.programmers.co.kr/learn/courses/30/lessons/42748
 - [가장 큰 수] https://school.programmers.co.kr/learn/courses/30/lessons/42746
