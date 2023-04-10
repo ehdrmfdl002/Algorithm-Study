@@ -93,4 +93,29 @@
 - [동명 동물 수 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/59041
 - [가격대 별 상품 개수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131530
 
-### 4
+### 4주차(2023.04.09~)
+
+- [타겟 넘버] https://school.programmers.co.kr/learn/courses/30/lessons/43165
+- [네트워크] https://school.programmers.co.kr/learn/courses/30/lessons/43162
+- [게임 맵 최단거리] https://school.programmers.co.kr/learn/courses/30/lessons/1844
+- [단어 변환] https://school.programmers.co.kr/learn/courses/30/lessons/43163
+- [여행경로] https://school.programmers.co.kr/learn/courses/30/lessons/43164
+- [아이템 줍기] https://school.programmers.co.kr/learn/courses/30/lessons/87694
+- [퍼즐 조각 채우기] https://school.programmers.co.kr/learn/courses/30/lessons/84021
+
+ ---
+ 
+- [NULL 처리하기] https://school.programmers.co.kr/learn/courses/30/lessons/59410
+- [경기도에 위치한 식품창고 목록 출력하기] https://school.programmers.co.kr/learn/courses/30/lessons/131114
+- [나이 정보가 없는 회원 수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131528
+- [년, 월, 성별 별 상품 구매 회원 수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131532
+- [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/151139
+- [식품분류별 가장 비싼 식품의 정보 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/131116
+- [이름이 없는 동물의 아이디] https://school.programmers.co.kr/learn/courses/30/lessons/59039
+- [이름이 있는 동물의 아이디] https://school.programmers.co.kr/learn/courses/30/lessons/59407
+- [입양 시각 구하기(1)] https://school.programmers.co.kr/learn/courses/30/lessons/59412
+- [입양 시각 구하기(2)] https://school.programmers.co.kr/learn/courses/30/lessons/59413
+- [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기] https://school.programmers.co.kr/learn/courses/30/lessons/157340
+- [저자 별 카테고리 별 매출액 집계하기] https://school.programmers.co.kr/learn/courses/30/lessons/144856
+- [조건에 맞는 사용자와 총 거래금액 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/164668
+- [카테고리 별 도서 판매량 집계하기] https://school.programmers.co.kr/learn/courses/30/lessons/144855
