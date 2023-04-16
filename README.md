@@ -93,7 +93,7 @@
 - [동명 동물 수 찾기] https://school.programmers.co.kr/learn/courses/30/lessons/59041
 - [가격대 별 상품 개수 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131530
 
-### 4주차(2023.04.09~)
+### 4주차(2023.04.10~2023.4.20)
 
 - [타겟 넘버] https://school.programmers.co.kr/learn/courses/30/lessons/43165
 - [네트워크] https://school.programmers.co.kr/learn/courses/30/lessons/43162
@@ -119,3 +119,5 @@
 - [저자 별 카테고리 별 매출액 집계하기] https://school.programmers.co.kr/learn/courses/30/lessons/144856
 - [조건에 맞는 사용자와 총 거래금액 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/164668
 - [카테고리 별 도서 판매량 집계하기] https://school.programmers.co.kr/learn/courses/30/lessons/144855
+
+### 5주차(2023.04.21~ 2023.04.23)
