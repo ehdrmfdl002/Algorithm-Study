@@ -120,7 +120,7 @@
 - [조건에 맞는 사용자와 총 거래금액 조회하기] https://school.programmers.co.kr/learn/courses/30/lessons/164668
 - [카테고리 별 도서 판매량 집계하기] https://school.programmers.co.kr/learn/courses/30/lessons/144855
 
-### 5주차(2023.04.21~ 2023.04.23)
+### 5주차(2023.04.21~ 2023.04.28)
 
 - [체육복] https://school.programmers.co.kr/learn/courses/30/lessons/42862
 - [조이스틱] https://school.programmers.co.kr/learn/courses/30/lessons/42860
@@ -147,4 +147,14 @@
 - [보호소에서 중성화한 동물] https://school.programmers.co.kr/learn/courses/30/lessons/59045
 - [상품 별 오프라인 매출 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131533
 - [상품을 구매한 회원 비율 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131534
+
+### 6주차(2023.04.27~ 2023.04.30)
+
+- [교점에 별 만들기] https://school.programmers.co.kr/learn/courses/30/lessons/87377
+- [행렬 테두리 회전하기] https://school.programmers.co.kr/learn/courses/30/lessons/77485
+- [삼각 달팽이] https://school.programmers.co.kr/learn/courses/30/lessons/68645
+- [거리두기 확인하기] https://school.programmers.co.kr/learn/courses/30/lessons/81302
+- [행렬의 곱셈] https://school.programmers.co.kr/learn/courses/30/lessons/12949
+- [시저 암호] https://school.programmers.co.kr/learn/courses/30/lessons/12926
+- [이상한 문자 만들기] https://school.programmers.co.kr/learn/courses/30/lessons/12930
 
