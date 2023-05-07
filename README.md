@@ -158,3 +158,8 @@
 - [시저 암호] https://school.programmers.co.kr/learn/courses/30/lessons/12926
 - [이상한 문자 만들기] https://school.programmers.co.kr/learn/courses/30/lessons/12930
 
+### 7주차 (2023.05.08 ~ 2023.05.12)
+
+- [장애물 인식 프로그램] https://softeer.ai/practice/info.do?idx=1&eid=409
+- [GBC] https://softeer.ai/practice/info.do?idx=1&eid=584
+- [염기서열 커버] https://softeer.ai/practice/info.do?idx=1&eid=1526
