@@ -148,7 +148,7 @@
 - [상품 별 오프라인 매출 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131533
 - [상품을 구매한 회원 비율 구하기] https://school.programmers.co.kr/learn/courses/30/lessons/131534
 
-### 6주차(2023.04.27~ 2023.04.30)
+### 6주차(2023.04.27~ 2023.05.07)
 
 - [교점에 별 만들기] https://school.programmers.co.kr/learn/courses/30/lessons/87377
 - [행렬 테두리 회전하기] https://school.programmers.co.kr/learn/courses/30/lessons/77485
