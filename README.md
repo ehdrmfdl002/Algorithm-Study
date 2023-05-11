@@ -163,3 +163,13 @@
 - [장애물 인식 프로그램] https://softeer.ai/practice/info.do?idx=1&eid=409
 - [GBC] https://softeer.ai/practice/info.do?idx=1&eid=584
 - [염기서열 커버] https://softeer.ai/practice/info.do?idx=1&eid=1526
+
+### 8주차 (2023.05.12 ~ 2023.05.21)
+
+- [문자열 압축] https://school.programmers.co.kr/learn/courses/30/lessons/60057
+- [3진법 뒤집기] https://school.programmers.co.kr/learn/courses/30/lessons/68935
+- [이진 변환 반복하기] https://school.programmers.co.kr/learn/courses/30/lessons/70129
+- [문자열 내 p와 y의 개수] https://school.programmers.co.kr/learn/courses/30/lessons/12916
+- [숫자 문자열과 영단어] https://school.programmers.co.kr/learn/courses/30/lessons/81301
+- [문자열 다루기 기본] https://school.programmers.co.kr/learn/courses/30/lessons/12918
+- [신규 아이디 추천] https://school.programmers.co.kr/learn/courses/30/lessons/72410
