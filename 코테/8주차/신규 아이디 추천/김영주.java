@@ -13,35 +13,34 @@ class Solution {
         }
         
         // 3단계
-        String s3 = s2;
-        while(s3.contains("..")){
-            s3 = s3.replace("..",".");
+        while(s2.contains("..")){
+            s2 = s2.replace("..",".");
         }
         
         // 4단계
-        if(s3.length()>0){
-            if(s3.charAt(0) == '.') s3 = s3.substring(1,s3.length());
+        if(s2.length()>0){
+            if(s2.charAt(0) == '.') s2 = s2.substring(1,s2.length());
 ;        }
         
-        if(s3.length()>0){
-            if(s3.charAt(s3.length()-1) == '.') s3 = s3.substring(0,s3.length()-1);
+        if(s2.length()>0){
+            if(s2.charAt(s2.length()-1) == '.') s2 = s2.substring(0,s2.length()-1);
         }
             
         // 5단계
-        if(s3.length() == 0) s3="a";
+        if(s2.length() == 0) s2="a";
         
         // 6단계
-        if(s3.length()>=16){
-            s3 = s3.substring(0,15);
-            if(s3.charAt(s3.length()-1) == '.') s3 = s3.substring(0,s3.length()-1);
+        if(s2.length()>=16){
+            s2 = s2.substring(0,15);
+            if(s2.charAt(s2.length()-1) == '.') s2 = s2.substring(0,s2.length()-1);
         }
         
         // 7단계
-        if(s3.length()<=2){
-            while(s3.length()<3) s3+=s3.charAt(s3.length()-1);
+        if(s2.length()<=2){
+            while(s2.length()<3) s2+=s2.charAt(s2.length()-1);
         }
         
-        return s3;
+        return s2;
         
     }
 }
