@@ -179,6 +179,7 @@
 ### 9주차 (2023.05.22 ~ 2023.05.24)
 
 - [숫자 야구] https://www.acmicpc.net/problem/2503
+- [호석이 두 마리 치킨] https://www.acmicpc.net/problem/21278
 - [수식 최대화] https://school.programmers.co.kr/learn/courses/30/lessons/67257
 - [불량 사용자] https://school.programmers.co.kr/learn/courses/30/lessons/64064
 - [두 개 뽑아서 더하기] https://school.programmers.co.kr/learn/courses/30/lessons/68644
