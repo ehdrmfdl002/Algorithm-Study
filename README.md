@@ -181,3 +181,7 @@
 - [숫자 야구] https://www.acmicpc.net/problem/2503
 - [수식 최대화] https://school.programmers.co.kr/learn/courses/30/lessons/67257
 - [불량 사용자] https://school.programmers.co.kr/learn/courses/30/lessons/64064
+- [두 개 뽑아서 더하기] https://school.programmers.co.kr/learn/courses/30/lessons/68644
+- [문자열 내림차순으로 배치하기] https://school.programmers.co.kr/learn/courses/30/lessons/12917
+- [문자열 내 마음대로 정렬하기] https://school.programmers.co.kr/learn/courses/30/lessons/12915
+- [메뉴 리뉴얼] https://school.programmers.co.kr/learn/courses/30/lessons/72411
