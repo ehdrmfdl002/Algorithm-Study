@@ -10,11 +10,6 @@ class Solution {
             if (o1.charAt(n) == o2.charAt(n)) return o1.compareTo(o2);
             else return o1.charAt(n) - o2.charAt(n);
         });
-//        return strings;
-        ArrayList<Intger> list = new ArrayList<Intger>();
-        list.add(1);
-        list.add(2);
-        String[] as = list.stream().toArray(new String[list.size()]);
-        return "ee";
+       return strings;
     }
 }
