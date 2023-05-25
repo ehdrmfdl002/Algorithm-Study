@@ -191,7 +191,7 @@
 ### 10주차 (2023.05.25 ~ 2023.05.28)
 
 - [순위 검색] https://school.programmers.co.kr/learn/courses/30/lessons/72412
-- [N으로 표] https://school.programmers.co.kr/learn/courses/30/lessons/42895
+- [N으로 표현] https://school.programmers.co.kr/learn/courses/30/lessons/42895
 - [없는 숫자 더하기] https://school.programmers.co.kr/learn/courses/30/lessons/86051
 - [스킬 트리] https://school.programmers.co.kr/learn/courses/30/lessons/49993
 - [키패드 누르기] https://school.programmers.co.kr/learn/courses/30/lessons/67256
