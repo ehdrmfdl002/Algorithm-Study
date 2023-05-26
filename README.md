@@ -191,7 +191,9 @@
 ### 10주차 (2023.05.25 ~ 2023.05.28)
 
 - [순위 검색] https://school.programmers.co.kr/learn/courses/30/lessons/72412
-- [N으로 표현] https://school.programmers.co.kr/learn/courses/30/lessons/42895
+- [나무 자르기] https://www.acmicpc.net/problem/2805
+- [공유기 설치] https://www.acmicpc.net/problem/2110
 - [없는 숫자 더하기] https://school.programmers.co.kr/learn/courses/30/lessons/86051
 - [스킬 트리] https://school.programmers.co.kr/learn/courses/30/lessons/49993
 - [키패드 누르기] https://school.programmers.co.kr/learn/courses/30/lessons/67256
+- [빗물] https://www.acmicpc.net/problem/14719
