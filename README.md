@@ -188,7 +188,7 @@
 - [문자열 내 마음대로 정렬하기] https://school.programmers.co.kr/learn/courses/30/lessons/12915
 - [메뉴 리뉴얼] https://school.programmers.co.kr/learn/courses/30/lessons/72411
 
-### 10주차 (2023.05.25 ~ 2023.05.28)
+### 10주차 (2023.05.25 ~ 2023.06.14)
 
 - [순위 검색] https://school.programmers.co.kr/learn/courses/30/lessons/72412
 - [나무 자르기] https://www.acmicpc.net/problem/2805
